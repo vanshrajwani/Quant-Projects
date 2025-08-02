@@ -42,7 +42,7 @@ A 2D scatterplot of strikes vs. IV for options with 20 to 60 day maturity.
 The final smile is calibrated using the SVI raw parameterization:
 
 \[
-w(x) = a + b\left[\rho(x - m) + \sqrt{(x - m)^2 + \sigma^2}\right]
+w(x) = a + b [rho(x - m) + sqrt{(x - m)^2 + sigma^2}]
 \]
 
 ---
